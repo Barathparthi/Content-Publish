@@ -81,6 +81,9 @@ const Login = () => {
                                     Register here
                                 </MuiLink>
                             </Typography>
+                            <Typography variant="body2" align="center" sx={{ mt: 1 }}>
+                                I used "Render" for backend hosting. So, the first request might take a bit longer due to server wake-up time.
+                            </Typography>
                         </Box>
                     </Box>
                 </Paper>
